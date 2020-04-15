@@ -9,4 +9,4 @@ This definitely not the best way to code this and if you have a suggestion I wou
 love to hear it.
 
 ## Future plans
-I plan to add a GUI to the project so it is a little more presentable, and commens to each function deteailing what each one does.
+I plan to add a GUI to the project so it is a little more presentable, and comments to each function deteailing what each one does.
