@@ -58,8 +58,9 @@ def unSolve(setDif, board):
 
 board = createBoard()
 Solve(board)
+print("Solved Board")
 print(board)
 newBoard = unSolve(setDif, board)
-print("")
+print("Unsolved  Board")
 print(newBoard)
 
